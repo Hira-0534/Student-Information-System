@@ -9,7 +9,6 @@ The project demonstrates how data structures can be applied to build real-world 
 
 Student record management (Roll No, Name, Course Code, Marks, CGPA)
 
-Array (Vector) based operations
 
 Linked List based operations
 
@@ -31,7 +30,7 @@ Main C++ source code
 
 Implements CRUD, searching, and sorting operations
 
-2. report/DSA_Report.pdf
+2. report Report.pdf
 
 Project report with detailed explanation
 
